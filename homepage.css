@@ -1,19 +1,19 @@
 body {
-    background-color:#FFFFFF;
-    height: 100%;
+    	background-color:#FFFFFF;
+    	height: 100%;
 }
 
 
 
 .row {
-    display:flex;
+    	display:flex;
 
 }
 
 
 .column {
-    flex: 20%
-    padding: 5px;
+    	flex: 20%
+    	padding: 5px;
 }
 
 
@@ -30,11 +30,11 @@ body {
 }
 
 .topBar {
-    display: flex;
+    	display: flex;
 }
 .top {
-    flex: 20%;
-    padding: 10px;
+    	flex: 20%;
+    	padding: 10px;
     
 }
 .navbar {
@@ -52,8 +52,8 @@ body {
 	font-style: normal;
 	font-weight: 200;
 	font-size: 2vw;
-    text-decoration: none;
-    padding: 18px;
+    	text-decoration: none;
+    	padding: 18px;
 	top: 15%;
 	right: 10%;
 
@@ -87,9 +87,9 @@ p {
 	color: #6C6C6C;
 	font-family: Open Sans;
 	font-weight: 100;
-    text-decoration: none;
-    padding: 4%;
-	top: 15%;
+	text-decoration: none;
+	padding-left: 4%;
+	padding-right: 4%;
 	line-height: 160%;
 	
 
@@ -101,9 +101,10 @@ h2 {
 	font-family: Open Sans;
 	font-style: Semi-Bold;
 	font-weight: 200;
-    text-decoration: none;
+    	text-decoration: none;
 	padding-left: 4%;
-    top: 15%;
+	padding-bottom:4%;
+    	top: 15%;
 
 }
 
