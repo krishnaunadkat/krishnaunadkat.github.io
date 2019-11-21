@@ -11,10 +11,5 @@ $(document).ready(function() {
             $('.vid')[i].play(); 
     }
 
-    function hideVideo(i) {
-            $('.vid').get(0).pause(); 
-            $('.vid').currentTime=0;
-            $('.vid').load();
-    }
-
+ 
     
